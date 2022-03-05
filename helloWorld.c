@@ -5,10 +5,11 @@ int main(){
   printf("Hello world\n");
   printf("Hello world\n");
   printf("Hello world\n");
-<<<<<<< HEAD
   printf("edit in main branch");
-=======
   printf("edit in branch1");
->>>>>>> refs/remotes/origin/branch1
+
+
+
+  printf("edit again in local")
   return 0;  
 }
